@@ -1,0 +1,12 @@
+.applicationsList{
+  display: flex;
+  flex-direction: column;
+
+  .buttons{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+  }
+}
